@@ -1,2 +1,3 @@
-# bloom_filter
-Optimized bloom-filter written in C++
+# Bloom filter
+
+Bloom filter for IP addresses storage in C++
